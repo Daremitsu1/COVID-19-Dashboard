@@ -4,3 +4,4 @@ After which we have visualized the data in Tableau. We have created tableau map 
 
 Link to the dashboard: https://public.tableau.com/profile/aviparna.biswas#!/vizhome/CoronavirusConfirmedCasesDeathbyLocation/Dashboard1
 
+![Capture](https://user-images.githubusercontent.com/54842807/95120291-f4356580-076a-11eb-9bc2-7b5a975ef25e.JPG)
